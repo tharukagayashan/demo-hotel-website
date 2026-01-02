@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-hotel-website/static/css/main.5fc7e9a4.css",
+    "main.js": "/demo-hotel-website/static/js/main.228d3c88.js",
+    "index.html": "/demo-hotel-website/index.html",
+    "main.5fc7e9a4.css.map": "/demo-hotel-website/static/css/main.5fc7e9a4.css.map",
+    "main.228d3c88.js.map": "/demo-hotel-website/static/js/main.228d3c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc7e9a4.css",
+    "static/js/main.228d3c88.js"
+  ]
+}
