@@ -1,13 +1,23 @@
 {
   "files": {
     "main.css": "/demo-hotel-website/static/css/main.5fc7e9a4.css",
-    "main.js": "/demo-hotel-website/static/js/main.228d3c88.js",
+    "main.js": "/demo-hotel-website/static/js/main.421c9e5f.js",
+    "static/media/Swimming pool surrounded by gardens.jpeg": "/demo-hotel-website/static/media/Swimming pool surrounded by gardens.17eee40c9120902fe123.jpeg",
+    "static/media/Palm trees and tropical setting.jpeg": "/demo-hotel-website/static/media/Palm trees and tropical setting.0c6aab80136d7a9b59e0.jpeg",
+    "static/media/Lush tropical gardens.jpeg": "/demo-hotel-website/static/media/Lush tropical gardens.853ba1b66ea6fd3e69f1.jpeg",
+    "static/media/Aerial view of tropical pool.jpeg": "/demo-hotel-website/static/media/Aerial view of tropical pool.32e2fd6e97506aa3cdfc.jpeg",
+    "static/media/hero.jpeg": "/demo-hotel-website/static/media/hero.32e2fd6e97506aa3cdfc.jpeg",
+    "static/media/Hotel restaurant dining area.jpeg": "/demo-hotel-website/static/media/Hotel restaurant dining area.475015fb8fa157990ab2.jpeg",
+    "static/media/Luxury spa treatment room.jpeg": "/demo-hotel-website/static/media/Luxury spa treatment room.7e85cdb179d69322c7e4.jpeg",
+    "static/media/pool-view-suite.jpeg": "/demo-hotel-website/static/media/pool-view-suite.cb6a3c315b211e0fd1a6.jpeg",
+    "static/media/deluxe-garden-view.jpeg": "/demo-hotel-website/static/media/deluxe-garden-view.5f6c0c4739a12f62d8b4.jpeg",
+    "static/media/premium-suite.jpeg": "/demo-hotel-website/static/media/premium-suite.5f6c0c4739a12f62d8b4.jpeg",
     "index.html": "/demo-hotel-website/index.html",
     "main.5fc7e9a4.css.map": "/demo-hotel-website/static/css/main.5fc7e9a4.css.map",
-    "main.228d3c88.js.map": "/demo-hotel-website/static/js/main.228d3c88.js.map"
+    "main.421c9e5f.js.map": "/demo-hotel-website/static/js/main.421c9e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.5fc7e9a4.css",
-    "static/js/main.228d3c88.js"
+    "static/js/main.421c9e5f.js"
   ]
 }
