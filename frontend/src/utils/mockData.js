@@ -1,4 +1,14 @@
 // Mock data for il Frangipane Hotel Website
+import deluxeGardenView from "@/assets/deluxe-garden-view.jpeg";
+import poolViewSuite from "@/assets/pool-view-suite.jpeg";
+import premiumSuite from "@/assets/premium-suite.jpeg";
+import arealViewPool from "@/assets/Aerial view of tropical pool.jpeg";
+import swimmingPool from "@/assets/Swimming pool surrounded by gardens.jpeg";
+import palmTrees from "@/assets/Palm trees and tropical setting.jpeg";
+import tropicalGardens from "@/assets/Lush tropical gardens.jpeg";
+import spaTreatmentRoom from "@/assets/Luxury spa treatment room.jpeg";
+import diningArea from "@/assets/Hotel restaurant dining area.jpeg";
+
 
 export const hotelInfo = {
   name: "il Frangipane",
@@ -24,7 +34,7 @@ export const rooms = [
     size: "35 m²",
     capacity: "2 Adults",
     features: ["King Bed", "Garden View", "Private Balcony", "Air Conditioning", "Coffee Maker", "Free WiFi"],
-    image: "https://images.unsplash.com/photo-1578683010236-d716f9a3f461"
+    image: deluxeGardenView
   },
   {
     id: 2,
@@ -33,7 +43,7 @@ export const rooms = [
     size: "45 m²",
     capacity: "2 Adults + 1 Child",
     features: ["King Bed", "Pool View", "Large Porch", "Sitting Area", "Modern Bathroom", "Climate Control"],
-    image: "https://images.unsplash.com/photo-1607712617949-8c993d290809"
+    image: poolViewSuite
   },
   {
     id: 3,
@@ -42,7 +52,7 @@ export const rooms = [
     size: "50 m²",
     capacity: "3 Adults",
     features: ["King Bed", "Private Entrance", "Large Balcony", "Tea/Coffee Facilities", "Premium Amenities", "Walk-in Shower"],
-    image: "https://images.unsplash.com/photo-1578683010236-d716f9a3f461"
+    image: premiumSuite
   }
 ];
 
@@ -82,37 +92,37 @@ export const amenities = [
 export const gallery = [
   {
     id: 1,
-    url: "https://images.unsplash.com/photo-1728049006343-9ee0187643d5",
+    url: arealViewPool,
     category: "pool",
     alt: "Aerial view of tropical pool"
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1743525922686-badbeac16a34",
+    url: swimmingPool,
     category: "pool",
     alt: "Swimming pool surrounded by gardens"
   },
   {
     id: 3,
-    url: "https://images.unsplash.com/photo-1617643817469-418747ebcc9a",
+    url: palmTrees,
     category: "exterior",
     alt: "Palm trees and tropical setting"
   },
   {
     id: 4,
-    url: "https://images.unsplash.com/photo-1673964566152-2aee6bc89929",
+    url: tropicalGardens,
     category: "gardens",
     alt: "Lush tropical gardens"
   },
   {
     id: 5,
-    url: "https://images.unsplash.com/photo-1761470575018-135c213340eb",
+    url: spaTreatmentRoom,
     category: "spa",
     alt: "Luxury spa treatment room"
   },
   {
     id: 6,
-    url: "https://images.unsplash.com/photo-1703565426315-4209c2e88eea",
+    url: diningArea,
     category: "dining",
     alt: "Hotel restaurant dining area"
   }

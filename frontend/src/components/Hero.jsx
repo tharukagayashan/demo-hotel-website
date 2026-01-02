@@ -2,6 +2,7 @@ import React from 'react';
 import { Star } from 'lucide-react';
 import { Button } from './ui/button';
 import { hotelInfo } from '../utils/mockData';
+import profileImage from "@/assets/hero.jpeg";
 
 const Hero = () => {
   const scrollToBooking = () => {
@@ -20,8 +21,8 @@ const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1728049006343-9ee0187643d5"
-          alt="il Frangipane Hotel Pool"
+          src={profileImage}
+          alt="Hero image"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60"></div>
